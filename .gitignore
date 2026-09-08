@@ -1,6 +1,5 @@
 .env
 data/memory.json
-outputs/
 __pycache__/
 *.pyc
 .venv/
